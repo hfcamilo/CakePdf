@@ -2,7 +2,7 @@
 	"name": "hfcamilo/cake-pdf",
 	"type": "cakephp-plugin",
         "description": "CakePHP plugin for creating and/or rendering Pdf, several Pdf engines supported. Forked to get the dependecies with composer",
-	"homepage": "http://github.com/ceeram/CakePdf",
+	"homepage": "https://github.com/hfcamilo/CakePdf",
 	"license": "MIT",
 	"require": {
 		"php": ">=5.3.0",
